@@ -1,3 +1,6 @@
+//Henrique Bergamo Shigihara
+//2ºSemestre 2019 - SI200
+
 //Este programa traduz os arquivos ".txt" criptografados com cifra de césar
 
 //Importando as Bibliotecas
