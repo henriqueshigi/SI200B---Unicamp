@@ -1,4 +1,4 @@
-//Henrique Bergamo Shigihara RA 236548
+//Henrique Bergamo Shigihara
 //2ºSemestre 2019 - SI200
 //ENUNCIADO: PJ2
 //Construir uma biblioteca de funções para uma aplicação de troca de mensagens
