@@ -1,3 +1,6 @@
+//Henrique Bergamo Shigihara
+//2ºSemestre 2019 - SI200
+
 //MINHA BIBLIOTECA
 
 #ifndef _SHIGILIB_H_
